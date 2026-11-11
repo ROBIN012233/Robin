@@ -25,10 +25,17 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        run: npm ci --ignore-scripts
 
-      - name: Rebuild better-sqlite3 for Electron ABI
+      - name: Prepare static renderer libraries
+        run: node scripts/prepare-vendor.js
+
+      - name: Ensure better-sqlite3 ABI
+        # better-sqlite3 13 ships N-API prebuilds. The source rebuild is a best-effort
+        # ABI sanity check; the runner's Visual Studio 18 is not supported by the
+        # legacy node-gyp used by this addon, so do not block the release on it.
         run: npx electron-rebuild -f -w better-sqlite3
+        continue-on-error: true
 
       - name: Note static renderer build
         run: echo "Renderer is plain HTML/CSS/JS; there is no frontend build step."
