@@ -1,0 +1,13 @@
+node_modules/
+release/
+.tmp-*/
+.tmp-ui/
+.tmp-chrome-ui*/
+*.log
+build-debug*.txt
+build-debug*.log
+build-portable*.log
+task-test.txt
+electron-*.log
+.DS_Store
+Thumbs.db

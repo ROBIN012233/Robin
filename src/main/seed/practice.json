@@ -1,0 +1,345 @@
+[
+  {
+    "id": "practice-writing-01",
+    "domain": "writing",
+    "title": "Digital Tools and Independent Thinking",
+    "prompt": "Some students rely on digital tools for almost every learning task. Others believe these tools weaken independent thinking. Write an essay that discusses both views and gives your own opinion.",
+    "tags": ["写作", "科技", "六级"],
+    "requirements": [
+      "不少于 150 词，建议 180–220 词",
+      "至少使用一个具体例子",
+      "明确表达自己的立场，不只罗列观点",
+      "包含一个让步段或让步句"
+    ],
+    "essayTopic": "technology",
+    "metaNote": "参考范文与逐段点评来自内置范文库「科技」类。"
+  },
+  {
+    "id": "practice-writing-02",
+    "domain": "writing",
+    "title": "Should Universities Require Community Service?",
+    "prompt": "Some universities require students to complete community service before graduation. Write an essay stating whether you support this requirement, and explain your reasons.",
+    "tags": ["写作", "教育", "六级"],
+    "requirements": [
+      "不少于 150 词，建议 180–220 词",
+      "提出至少两条理由，并回应一条反方观点",
+      "避免绝对化表达（如 everyone、never）"
+    ],
+    "essayTopic": "education",
+    "metaNote": "参考范文与逐段点评来自内置范文库「教育」类。"
+  },
+  {
+    "id": "practice-writing-03",
+    "domain": "writing",
+    "title": "Small Habits, Large Changes",
+    "prompt": "Many people try to improve their lives through dramatic changes, yet small daily habits often matter more. Write an essay about the role of small habits in personal growth.",
+    "tags": ["写作", "成长", "四级"],
+    "requirements": [
+      "不少于 120 词，建议 150–180 词",
+      "用一个个人或身边的例子支持观点",
+      "结尾给出可执行的建议"
+    ],
+    "essayTopic": "growth",
+    "metaNote": "参考范文与逐段点评来自内置范文库「个人成长」类。"
+  },
+  {
+    "id": "practice-writing-04",
+    "domain": "writing",
+    "title": "Preserving Local Culture in a Global City",
+    "prompt": "Large cities are becoming more alike, while local traditions risk disappearing. Write an essay on how a city can remain open to the world without losing its own culture.",
+    "tags": ["写作", "文化", "六级"],
+    "requirements": [
+      "不少于 150 词",
+      "讨论一个具体的文化载体（食物、语言、节日、建筑等）",
+      "提出一条政策或社区层面的建议"
+    ],
+    "essayTopic": "culture",
+    "metaNote": "参考范文与逐段点评来自内置范文库「文化」类。"
+  },
+  {
+    "id": "practice-writing-05",
+    "domain": "writing",
+    "title": "How Should Cities Handle Waste?",
+    "prompt": "Cities produce large amounts of waste, and recycling alone cannot solve the problem. Write an essay proposing a practical approach to waste reduction and explaining its possible difficulties.",
+    "tags": ["写作", "环境", "六级"],
+    "requirements": [
+      "不少于 150 词",
+      "提出一个具体措施，并说明它为什么可能有效",
+      "承认该措施的局限"
+    ],
+    "essayTopic": "environment",
+    "metaNote": "参考范文与逐段点评来自内置范文库「环境」类。"
+  },
+  {
+    "id": "practice-writing-06",
+    "domain": "writing",
+    "title": "The Neighbours We Do Not Know",
+    "prompt": "In many modern neighbourhoods, people live close together but know little about one another. Write an essay about whether this matters and what could be done about it.",
+    "tags": ["写作", "社会", "四级"],
+    "requirements": [
+      "不少于 120 词，建议 150–180 词",
+      "说明“互不相识”可能带来的一个具体影响",
+      "提出一个低成本的改善办法"
+    ],
+    "essayTopic": "society",
+    "metaNote": "参考范文与逐段点评来自内置范文库「社会」类。"
+  },
+  {
+    "id": "practice-reading-01",
+    "domain": "reading",
+    "title": "The Repair Café",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "社会", "四级"],
+    "body": "On the first Saturday of every month, a church hall in my town turns into a repair café. Volunteers bring tools and patience. Visitors bring broken lamps, torn jackets, radios that no longer hum and bicycles with stubborn brakes. Nothing is sold. The rule is simple: sit with the person who is fixing your object, and learn what you can.\n\nThe café started as a response to waste. Its founders calculated that many discarded household items were thrown away because of minor faults: a loose connection, a worn belt, a missing screw. But the volunteers soon discovered that the social effect was as important as the environmental one. Older residents brought skills that younger residents had never seen. A retired electrician taught a teenager how to use a multimeter. A student showed a grandmother how to look up a replacement part online.\n\nNot everything can be repaired, and the café does not pretend otherwise. Volunteers sometimes have to explain that a device is unsafe or that a part is no longer available. These conversations are part of the service. They help visitors make a more informed decision about what to buy next.\n\nWhat makes the café work is not nostalgia for a time when everything was mended. It is a practical arrangement: a place, a time and a reason for people to sit together and pay attention to a broken thing. In a town where neighbours often pass without speaking, that may be the most valuable repair of all.",
+    "questions": [
+      {
+        "q": "What was the original purpose of the repair café?",
+        "options": ["To sell second-hand goods", "To reduce waste from discarded items", "To train professional electricians", "To provide free bicycles"],
+        "answer": 1,
+        "explanation": "第二段开头明确说 café “started as a response to waste”，并提到许多物品因小故障被丢弃。"
+      },
+      {
+        "q": "What did the volunteers notice besides the environmental benefit?",
+        "options": ["The café made a large profit", "Young people stopped buying new things", "People exchanged skills across generations", "The church hall became too small"],
+        "answer": 2,
+        "explanation": "第二段说“the social effect was as important”，并举例退休电工教青少年、学生教老人查零件，属于跨代技能交流。"
+      },
+      {
+        "q": "Why are conversations about unrepairable items useful?",
+        "options": ["They encourage visitors to buy the same product again", "They help visitors make better future purchases", "They allow volunteers to charge a fee", "They prove that recycling is unnecessary"],
+        "answer": 1,
+        "explanation": "第三段末尾说这些对话帮助来访者为“what to buy next”做出更明智的决定。"
+      }
+    ]
+  },
+  {
+    "id": "practice-reading-02",
+    "domain": "reading",
+    "title": "Why We Underestimate the Walk to the Station",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "心理", "六级"],
+    "body": "When people estimate how long a familiar journey will take, they tend to focus on the part they can picture. The train journey has a timetable, so it feels measurable. The ten-minute walk to the station does not, so it is often treated as a vague margin. The result is a predictable kind of lateness.\n\nResearchers call this the planning fallacy: the tendency to underestimate the time, cost and risk of future actions while overestimating their benefits. It is not simply optimism. It is a failure of imagination. We imagine the smooth version of the future and neglect the ordinary obstacles that appear in almost every real one.\n\nA simple correction is to use an outside view. Instead of asking how long this particular journey should take, ask how long similar journeys have actually taken. Your calendar history, your bank statements and your memory of previous mornings contain better data than your intention does. The answer is usually less flattering and more accurate.\n\nAnother correction is to make the invisible parts visible. If the walk is on your calendar as an event, it becomes harder to treat as free time. This sounds trivial, but small structural changes often work better than repeated promises to be more careful. We do not need to become pessimistic about the future. We need to give its ordinary details a place in the plan.",
+    "questions": [
+      {
+        "q": "Why do people underestimate the walk to the station?",
+        "options": ["They walk more slowly than they think", "It is difficult to picture and measure", "Trains are usually delayed", "They dislike walking"],
+        "answer": 1,
+        "explanation": "第一段指出人们关注“能想象的部分”，步行没有时刻表、难以测量，因此被当作模糊余量。"
+      },
+      {
+        "q": "What is the 'outside view' suggested in the passage?",
+        "options": ["Asking a friend to plan the journey", "Looking at how similar journeys actually went", "Leaving home earlier than necessary", "Avoiding familiar routes"],
+        "answer": 1,
+        "explanation": "第三段说 outside view 是问“similar journeys have actually taken”多久，并参考日历、账单等实际记录。"
+      },
+      {
+        "q": "What does the author recommend?",
+        "options": ["Becoming more pessimistic about all plans", "Replacing calendars with memory", "Making invisible parts of a plan visible", "Taking the train less often"],
+        "answer": 2,
+        "explanation": "最后一段建议把步行等“invisible parts”写进日历，让它们成为计划的一部分。"
+      }
+    ]
+  },
+  {
+    "id": "practice-reading-03",
+    "domain": "reading",
+    "title": "The Sound of a Library",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "文化", "六级"],
+    "body": "A library is never truly silent. It has a particular soundscape: the soft thud of a book being closed, the click of a keyboard, a chair dragged across the floor, the distant murmur of a conversation that has forgotten where it is. Regular visitors learn to read this sound. A sudden silence can mean that something has happened; a rising murmur can mean that the afternoon is ending.\n\nArchitects have long known that sound shapes behaviour. A room with a high ceiling and hard surfaces feels public, even when people are trying to concentrate. Carpet, curtains and low partitions create pockets of privacy. The design does not determine how people behave, but it makes some behaviours easier than others.\n\nThe modern library has added another layer: the sound of shared activity. Workshops, language exchanges and children's reading groups produce noise that would have been unthinkable in the reading rooms of the past. Managers defend this change by arguing that a library's purpose is not to preserve silence but to support learning. Silence, they suggest, was always a means rather than an end.\n\nThis is a useful distinction, but it can be taken too far. Many people rely on the library precisely because it is one of the few public places where concentration is treated as a legitimate activity. The challenge is not to choose between silence and activity. It is to design a building in which both can coexist without one quietly driving out the other.",
+    "questions": [
+      {
+        "q": "What does the first paragraph suggest about regular library visitors?",
+        "options": ["They prefer complete silence", "They can interpret the library's sounds", "They dislike keyboard noise", "They always arrive in the afternoon"],
+        "answer": 1,
+        "explanation": "第一段说常客“learn to read this sound”，并能从声音变化判断状态。"
+      },
+      {
+        "q": "How does architecture influence behaviour according to the passage?",
+        "options": ["It determines exactly how people act", "It makes some behaviours easier than others", "It removes the need for rules", "It only affects the appearance of a room"],
+        "answer": 1,
+        "explanation": "第二段明确说设计不决定行为，但“makes some behaviours easier than others”。"
+      },
+      {
+        "q": "What is the author's main concern in the final paragraph?",
+        "options": ["Libraries should ban all group activities", "Libraries should return to complete silence", "Quiet and shared activity need careful coexistence", "Children should not use libraries"],
+        "answer": 2,
+        "explanation": "作者认为不应二选一，而要设计出让安静与活动共存的空间，避免一方挤走另一方。"
+      }
+    ]
+  },
+  {
+    "id": "practice-reading-04",
+    "domain": "reading",
+    "title": "The Limits of a Map",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "科技", "六级"],
+    "body": "A map is an argument about what matters. It cannot show everything, so it selects. A subway map exaggerates the distance between central stations and compresses the outskirts, because its purpose is to make connections legible, not to represent geography accurately. This is not a flaw. It is the condition that makes the map useful.\n\nThe trouble begins when a representation is mistaken for the territory. A driver who follows a navigation app too closely may miss a closed road, a temporary market or a shortcut that local residents use every day. The map is not wrong; it is simply not the world. It records the world as it was measured at a particular time and for a particular purpose.\n\nGood map users develop a habit of doubt. They ask what the map is for, who made it and what it leaves out. This does not make them distrustful of all maps. It makes them better able to choose the right one. A map designed for tourists, a map designed for emergency services and a map designed for property buyers may show the same streets and tell very different stories.\n\nThe same lesson applies to the models we use in everyday life. A budget, a schedule and a personality test are all maps of a kind. They help us see something, and they hide something else. The question is not whether a representation is perfect. It is whether we remember that it is a representation.",
+    "questions": [
+      {
+        "q": "Why does a subway map distort geography?",
+        "options": ["To make the city look smaller", "To make connections easier to understand", "To hide the location of stations", "To reduce printing costs"],
+        "answer": 1,
+        "explanation": "第一段说地铁图“make connections legible, not to represent geography accurately”。"
+      },
+      {
+        "q": "What happens when a representation is mistaken for the territory?",
+        "options": ["The map becomes more accurate", "People may miss real-world changes", "Drivers stop using navigation", "The map is immediately updated"],
+        "answer": 1,
+        "explanation": "第二段说过于依赖导航可能错过封路、临时集市等真实变化。"
+      },
+      {
+        "q": "What does the author compare maps to in the final paragraph?",
+        "options": ["Ordinary tools such as budgets and schedules", "Works of art", "Scientific experiments", "Legal documents"],
+        "answer": 0,
+        "explanation": "最后一段把预算、日程、性格测试都称为 maps of a kind，是日常使用的模型。"
+      }
+    ]
+  },
+  {
+    "id": "practice-reading-05",
+    "domain": "reading",
+    "title": "The Quiet Work of Maintenance",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "科研", "六级"],
+    "body": "Scientific infrastructure is often invisible until it fails. A database, a calibration standard, a shared instrument or a software library may receive little attention while it works. Its contribution is difficult to publish because it is not a finding. It is the condition that makes findings possible.\n\nThis creates a problem for funding and credit. A new experiment is easy to describe as a contribution. Maintaining a repository for a decade is harder to present as a result, even though the repository may support hundreds of studies. The people who do this work often remain in the background, and when they leave, the knowledge required to keep the system running may leave with them.\n\nSome research communities have begun to treat maintenance as a first-class activity. They list maintainers as authors, fund long-term infrastructure explicitly and document the decisions behind a system. These practices do not solve the incentive problem completely, but they make the invisible work visible enough to be discussed.\n\nThe lesson is not that maintenance is more important than discovery. It is that discovery depends on maintenance, and a system that rewards only the visible part will eventually lose the hidden part. Good infrastructure is not a luxury added after the science is done. It is part of how the science is done.",
+    "questions": [
+      {
+        "q": "Why is maintenance work often overlooked?",
+        "options": ["It is usually performed by students", "It does not produce publishable findings", "It is always funded separately", "It requires no specialized knowledge"],
+        "answer": 1,
+        "explanation": "第一段说维护“difficult to publish because it is not a finding”，它是使发现成为可能的前提。"
+      },
+      {
+        "q": "What is one consequence when maintainers leave?",
+        "options": ["The instruments become more accurate", "Knowledge needed to run the system may disappear", "Funding automatically increases", "The repository becomes easier to use"],
+        "answer": 1,
+        "explanation": "第二段说维护者离开时，维持系统运行所需的知识可能随之离开。"
+      },
+      {
+        "q": "What do some communities do to recognize maintenance?",
+        "options": ["Stop publishing new experiments", "List maintainers as authors and fund infrastructure", "Hide the maintenance work", "Replace all shared tools"],
+        "answer": 1,
+        "explanation": "第三段列举：把维护者列为作者、明确资助长期基础设施、记录系统决策。"
+      }
+    ]
+  },
+  {
+    "id": "practice-reading-06",
+    "domain": "reading",
+    "title": "A Second Language, a Second Calendar",
+    "prompt": "阅读短文，完成后面的选择题。",
+    "tags": ["阅读", "文化", "四级"],
+    "body": "Learning a second language does not only add words. It adds a second calendar of associations. A month may carry a holiday that does not exist in your first culture. A colour may have a different emotional weight. A polite phrase may be shorter or longer than the one you would use at home.\n\nThese differences are easy to ignore when language study focuses on grammar. A sentence can be correct and still feel wrong because it uses the wrong level of formality, or because it answers a question too directly. Learners often experience this as a vague discomfort. They know something is off, but they cannot name it.\n\nOne useful practice is to collect moments of surprise. When a phrase feels warmer, colder, more formal or more direct than expected, write it down with the situation. Over time, these notes become a personal guide to the culture of the language. They are more useful than a general list of customs because they are attached to actual conversations.\n\nThe goal is not to become a native speaker. That is neither possible nor necessary. The goal is to notice that every language offers a particular way of arranging the world. Learning to use that arrangement is not a loss of your first language. It is an expansion of what you can see.",
+    "questions": [
+      {
+        "q": "What does the author mean by 'a second calendar of associations'?",
+        "options": ["A new way of counting years", "A different set of cultural meanings attached to words", "A schedule for language classes", "A list of holidays in another country"],
+        "answer": 1,
+        "explanation": "第一段用节日、颜色、礼貌用语说明语言会带来一套不同的文化联想，而不只是词汇。"
+      },
+      {
+        "q": "Why can a grammatically correct sentence still feel wrong?",
+        "options": ["It is too long", "It may use the wrong level of formality", "It contains too many new words", "It was translated by a machine"],
+        "answer": 1,
+        "explanation": "第二段明确说句子可能因为正式程度不当或回答过于直接而让人感觉不对。"
+      },
+      {
+        "q": "What does the author recommend to learners?",
+        "options": ["Memorizing lists of customs", "Trying to become native speakers", "Recording moments when language feels surprising", "Avoiding direct questions"],
+        "answer": 2,
+        "explanation": "第三段建议收集“moments of surprise”，把用语感差异与具体情境一起记下来。"
+      }
+    ]
+  },
+  {
+    "id": "practice-translation-01",
+    "domain": "translation",
+    "title": "城市绿道的价值",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "环境", "六级"],
+    "body": "近年来，越来越多的城市开始建设绿道。绿道不仅为市民提供了散步和骑行的空间，也把分散的公园、河流和社区连接起来。对忙碌的上班族而言，一段穿过树荫的通勤路，往往比周末专程去公园更容易坚持。绿道的价值还体现在它改变了人们看待城市的方式：当一条路不再只是从甲地到乙地的通道，而本身就成为目的地时，城市的日常生活便多了一层从容。当然，绿道也需要长期维护，否则很快会被杂草和破损的路面占据。",
+    "reference": "In recent years, more and more cities have begun to build greenways. Greenways not only provide residents with space for walking and cycling, but also connect scattered parks, rivers and communities. For busy office workers, a commute that passes through the shade of trees is often easier to sustain than a special trip to a park at the weekend. The value of greenways also lies in the way they change how people see the city: when a path is no longer merely a route from one place to another but becomes a destination in its own right, daily urban life gains a little more ease. Of course, greenways also require long-term maintenance; otherwise they will soon be taken over by weeds and broken surfaces.",
+    "scoringPoints": [
+      "“不仅……也……”用 not only... but also... 结构，注意连接成分一致。",
+      "“更容易坚持”可译为 easier to sustain / easier to keep up，避免逐字译成 easier to insist。",
+      "“本身就成为目的地”可用 becomes a destination in its own right，体现 in its own right 的副词短语。",
+      "“被杂草和破损的路面占据”用被动语态 be taken over by，保持客观。"
+    ]
+  },
+  {
+    "id": "practice-translation-02",
+    "domain": "translation",
+    "title": "图书馆的变化",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "文化", "六级"],
+    "body": "过去，人们去图书馆主要是为了借书。如今，图书馆的角色正在发生变化。除了提供纸质书和电子资源，许多图书馆还开设了讲座、语言角和创客空间，成为社区居民学习和交流的场所。这种转变并不意味着书不再重要，而是说明图书馆正在回应新的需求。有人认为，安静阅读的空间因此受到影响；也有人认为，图书馆本来就应该服务于不同的人群。如何在安静与活力之间取得平衡，是许多图书馆正在思考的问题。",
+    "reference": "In the past, people went to libraries mainly to borrow books. Today, the role of the library is changing. In addition to providing printed books and electronic resources, many libraries now offer lectures, language corners and makerspaces, becoming places where community residents can learn and exchange ideas. This shift does not mean that books are no longer important; rather, it shows that libraries are responding to new needs. Some people argue that quiet reading spaces have been affected as a result, while others believe that libraries have always been meant to serve different groups of people. How to strike a balance between quiet and vitality is a question that many libraries are now considering.",
+    "scoringPoints": [
+      "“除了……还……”用 in addition to + 名词 / apart from，后接动名词时注意结构。",
+      "“创客空间”可译为 makerspaces，属于常见社区图书馆术语。",
+      "“并不意味着……而是说明……”用 does not mean that...; rather, it shows that...。",
+      "“如何在……之间取得平衡”用 how to strike a balance between...，避免 how to get balance。"
+    ]
+  },
+  {
+    "id": "practice-translation-03",
+    "domain": "translation",
+    "title": "慢下来的能力",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "成长", "四级"],
+    "body": "在信息不断更新的时代，人们很容易把“快”当作能力的证明。回复要快，决定要快，甚至连休息也要安排得高效。然而，有些事情恰恰需要慢下来才能做好。读一本复杂的书，理解一个人的处境，或者完成一项需要反复修改的工作，都需要时间。慢并不意味着拖延，而是愿意给思考留出余地。当我们不再把每一分钟都填满，反而更容易听见自己真正关心什么。",
+    "reference": "In an age of constantly updating information, people easily mistake speed for proof of ability. Replies must be fast, decisions must be fast, and even rest has to be organized efficiently. Yet some things can only be done well if we slow down. Reading a complex book, understanding another person's situation, or completing work that requires repeated revision all take time. Slowness does not mean procrastination; it means being willing to leave room for thought. When we stop filling every minute, we are more likely to hear what we truly care about.",
+    "scoringPoints": [
+      "“把快当作能力的证明”用 mistake speed for proof of ability 或 regard speed as...。",
+      "三个并列动名词 Reading..., understanding..., completing... 共用谓语 take time，注意平行结构。",
+      "“给思考留出余地”可译为 leave room for thought，比 leave space to think 更自然。",
+      "“听见自己真正关心什么”用 hear what we truly care about，保留 hear 的比喻。"
+    ]
+  },
+  {
+    "id": "practice-translation-04",
+    "domain": "translation",
+    "title": "社区小店",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "社会", "六级"],
+    "body": "社区里的小店常常不起眼，却在日常生活中扮演着重要角色。店主记得常客的习惯，邻居在门口相遇时会停下来聊几句，孩子们放学后也愿意在这里逗留。这些看似琐碎的互动，构成了社区的安全感和归属感。然而，随着租金上涨和大型商场的扩张，许多小店不得不关门。城市在更新时，如果只考虑经济效率，就可能失去这些难以量化的社会价值。保护社区小店，不只是保留一种商业模式，也是保留人与人相遇的机会。",
+    "reference": "Small shops in a community are often unobtrusive, yet they play an important role in daily life. The owner remembers regular customers' habits, neighbours stop to chat when they meet at the door, and children are happy to linger there after school. These seemingly trivial interactions create a sense of safety and belonging in the community. However, as rents rise and large shopping malls expand, many small shops are forced to close. When a city renews itself, if it considers only economic efficiency, it may lose this social value that is difficult to quantify. Protecting community shops is not just about preserving a business model; it is also about preserving opportunities for people to meet one another.",
+    "scoringPoints": [
+      "“不起眼”可译为 unobtrusive / inconspicuous，避免 not eye-catching 的口语化表达。",
+      "“看似琐碎的互动”用 these seemingly trivial interactions，副词修饰形容词。",
+      "“难以量化的社会价值”用 social value that is difficult to quantify，定语从句。",
+      "“不只是……也是……”用 not just about...; it is also about...，保持两个动名词平行。"
+    ]
+  },
+  {
+    "id": "practice-translation-05",
+    "domain": "translation",
+    "title": "科研合作中的信任",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "科研", "六级"],
+    "body": "科研合作往往始于共同的研究兴趣，但能否持续，很大程度上取决于信任。信任不是一句承诺，而是在一次次具体的合作中建立起来的：按时提交数据，清楚说明方法的局限，在出现问题时及时沟通。跨学科合作尤其如此，因为参与者使用不同的术语，也习惯不同的工作节奏。有效的合作需要有人愿意把隐藏的假设说出来，也需要团队为分歧留出讨论的空间。只有当合作者相信彼此不会隐瞒不利结果时，合作才能真正降低研究的不确定性。",
+    "reference": "Research collaboration often begins with a shared research interest, but whether it can last depends largely on trust. Trust is not a promise; it is built through specific acts of cooperation over time: submitting data on time, clearly explaining the limitations of a method, and communicating promptly when problems arise. This is especially true of interdisciplinary collaboration, because participants use different terminology and are used to different working rhythms. Effective collaboration requires someone who is willing to make hidden assumptions explicit, and it also requires a team to leave space for discussing disagreements. Only when collaborators trust that neither side will conceal unfavourable results can cooperation genuinely reduce the uncertainty of research.",
+    "scoringPoints": [
+      "“能否持续”用 whether it can last 作主语从句，注意语序。",
+      "“不是一句承诺，而是……”用 is not a promise; it is built through...，避免 no...but 的生硬直译。",
+      "“把隐藏的假设说出来”用 make hidden assumptions explicit，学术表达比 say out 更准确。",
+      "“只有当……时，才……”用 Only when... can... 的倒装结构。"
+    ]
+  },
+  {
+    "id": "practice-translation-06",
+    "domain": "translation",
+    "title": "考试之后",
+    "prompt": "将下面这段中文翻译成英文。",
+    "tags": ["翻译", "教育", "四级"],
+    "body": "考试结束后，许多学生最先关心的是分数，而不是自己究竟学到了什么。分数当然重要，它提供了一个可以比较的结果，也影响着下一步的选择。但如果只盯着分数，就容易忽略更有价值的信息：哪些概念还没有真正理解，哪些错误在重复出现，哪些方法其实并不适合自己。一次考试的价值，不仅在于它给出了一个结果，更在于它暴露了学习过程中的问题。把这些问题记录下来，并在下一次学习中做出具体调整，往往比单纯提高刷题数量更有效。",
+    "reference": "After an exam, many students care first about their scores rather than what they have actually learned. Scores are certainly important: they provide a result that can be compared and influence the next stage of choices. But if we focus only on scores, we easily overlook more valuable information: which concepts are not yet truly understood, which mistakes keep recurring, and which methods do not actually suit us. The value of an exam lies not only in the result it gives, but also in the problems it reveals in the learning process. Recording these problems and making specific adjustments in the next round of study is often more effective than simply doing more practice questions.",
+    "scoringPoints": [
+      "“最先关心的是分数”用 care first about their scores，first 的位置要自然。",
+      "“不仅在于……更在于……”用 lies not only in... but also in...，主语是 value，注意 lies。",
+      "“刷题数量”可意译为 doing more practice questions，避免直译 number of brushing questions。",
+      "“在下次学习中做出具体调整”用 make specific adjustments in the next round of study，搭配准确。"
+    ]
+  }
+]

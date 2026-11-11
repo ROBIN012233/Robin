@@ -1,0 +1,38 @@
+{
+  "name": "lumen-english",
+  "version": "1.0.0",
+  "description": "Lumen English — an offline-first English learning desktop app with an immersive light system.",
+  "main": "src/main/main.js",
+  "author": "Lumen English",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ROBIN012233/Robin.git"
+  },
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win",
+    "dist:portable": "electron-builder --win portable",
+    "publish": "electron-builder --win --publish always",
+    "rebuild": "electron-rebuild -f -w better-sqlite3",
+    "prepare-vendor": "node scripts/prepare-vendor.js",
+    "postinstall": "node scripts/prepare-vendor.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "13.0.3",
+    "electron-store": "8.2.0",
+    "electron-updater": "^6.8.11"
+  },
+  "devDependencies": {
+    "@electron/rebuild": "3.7.2",
+    "@mozilla/readability": "^0.6.0",
+    "electron": "44.7.0",
+    "electron-builder": "^26.18.0",
+    "pdfjs-dist": "5.7.284",
+    "three": "^0.187.0"
+  },
+  "overrides": {
+    "@electron/node-gyp": "10.2.0-electron.2"
+  }
+}

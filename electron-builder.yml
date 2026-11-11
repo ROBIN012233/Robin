@@ -1,0 +1,50 @@
+appId: com.lumen.english
+productName: Lumen English
+copyright: Copyright © 2026 Lumen English
+
+directories:
+  output: release
+  buildResources: build
+
+files:
+  - src/**/*
+  - package.json
+  - "!**/*.map"
+
+extraResources:
+  - from: build/icon.png
+    to: icon.png
+
+asar: true
+asarUnpack:
+  - node_modules/better-sqlite3/**/*
+
+# The project prepares a matching Electron prebuild in postinstall and in CI.
+# Rebuilding again here would require a local C++ toolchain.
+npmRebuild: false
+
+win:
+  target:
+    - target: nsis
+      arch:
+        - x64
+  icon: build/icon.ico
+  artifactName: Lumen-English-Setup-${version}.${ext}
+
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true
+  perMachine: false
+  createDesktopShortcut: true
+  createStartMenuShortcut: true
+  shortcutName: Lumen English
+  deleteAppDataOnUninstall: false
+
+portable:
+  artifactName: Lumen-English-Portable-${version}.${ext}
+
+publish:
+  provider: github
+  owner: ROBIN012233
+  repo: Robin
+  releaseType: release

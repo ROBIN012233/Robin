@@ -1,0 +1,188 @@
+{
+  "education": {
+    "label": "教育",
+    "title": "Learning to Ask Better Questions",
+    "essay": "Most classrooms reward the student with the fastest answer. Yet the habit that carries people through adult life is not answering quickly; it is asking precisely. A good question turns a vague curiosity into a manageable problem, and it gives other people a reason to think alongside us.\n\nIn my first year of university, I spent weeks reading about urban gardens without knowing what I wanted to find out. My notes grew longer while my understanding stayed flat. A tutor finally asked me to write one sentence beginning with “I want to know whether…” The exercise felt almost childish, but it exposed the emptiness at the centre of my reading. Once the sentence existed, I could sort sources, reject irrelevant claims and design a small interview.\n\nBetter questions also make disagreement less expensive. Instead of announcing that someone is wrong, we can ask which evidence would change their mind. This shifts the conversation from defending a position to examining it, and it often reveals that two people are answering different questions.\n\nSchools could teach this deliberately. Give students five minutes to write three questions about a text, then ask them to choose the one they cannot answer alone. The room becomes quieter, but the thinking becomes louder. Answers may finish a lesson; questions decide what the lesson is for.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "以反差开头，先写课堂对“快答”的奖励，再提出的核心命题，最后一句点明问题意识的社会价值。",
+        "highlights": ["reward the student with the fastest answer", "turns a vague curiosity into a manageable problem", "a reason to think alongside us"],
+        "transferable": ["Most [places] reward [X]. Yet the habit that carries people through [Y] is not [X]; it is [Z].", "A good [thing] turns [vague state] into [manageable state]."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "用个人经历作证据，按“无效努力—关键提问—行动改变”推进，避免空泛说理。",
+        "highlights": ["My notes grew longer while my understanding stayed flat", "almost childish, but it exposed the emptiness", "design a small interview"],
+        "transferable": ["My [notes] grew longer while my [understanding] stayed flat.", "Once [X] existed, I could [list of concrete actions]."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "从个人经验转向人际沟通，解释提问如何降低争论成本。",
+        "highlights": ["make disagreement less expensive", "which evidence would change their mind", "answering different questions"],
+        "transferable": ["[X] also makes [Y] less expensive.", "Instead of [doing A], we can ask [question B]."]
+      },
+      {
+        "paragraph": 4,
+        "structure": "落到可执行的教学建议，并用对比式短句收束全文。",
+        "highlights": ["The room becomes quieter, but the thinking becomes louder", "Answers may finish a lesson; questions decide what the lesson is for"],
+        "transferable": ["[Place] could teach this deliberately.", "[A] may [finish X]; [B] decide [what X is for]."]
+      }
+    ]
+  },
+  "technology": {
+    "label": "科技",
+    "title": "The Quiet Cost of Convenience",
+    "essay": "A map application can now tell me where to turn before I have looked at the street. This is convenient, and that is precisely the problem. Convenience hides its costs by removing friction, and friction is often where attention, memory and judgement are built.\n\nConsider navigation. When I walked through a new city with a paper map, I made wrong turns and remembered their causes. A phone guides me perfectly and leaves almost nothing behind. The destination arrives, but the route does not become part of my mental map. The same pattern appears in note-taking and translation tools: the smoother the output, the easier it is to mistake delivery for understanding.\n\nThis is not an argument for abandoning useful technology. It is an argument for choosing where to keep a little difficulty. A student might draft an answer before consulting a chatbot. A traveller might study the route for one minute before pressing start. Such habits preserve the small struggle that turns information into knowledge.\n\nDesigners can help by making the cost visible: a quiet summary of what a tool did, a prompt to recall before revealing, a record of decisions the user delegated. Convenience is not the enemy. Passive convenience is. The best tools should leave us more capable after use, not merely more comfortable during it.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "用一个具体场景开场，随后提出反直觉论点：便利通过消除摩擦来隐藏代价。",
+        "highlights": ["tell me where to turn before I have looked at the street", "Convenience hides its costs by removing friction", "where attention, memory and judgement are built"],
+        "transferable": ["[Technology] can now [do X] before I have [done Y].", "This is convenient, and that is precisely the problem."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "导航案例—个人记忆—类比扩展到笔记与翻译，形成由具体到一般的论证链。",
+        "highlights": ["leaves almost nothing behind", "the route does not become part of my mental map", "mistake delivery for understanding"],
+        "transferable": ["The destination arrives, but [X] does not become [Y].", "The same pattern appears in [A] and [B]."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "先让步“不是反对技术”，再提出“保留一点难度”的中间立场，并以两个场景落地。",
+        "highlights": ["not an argument for abandoning useful technology", "choose where to keep a little difficulty", "the small struggle that turns information into knowledge"],
+        "transferable": ["This is not an argument for [extreme A]. It is an argument for [moderate B].", "A [person] might [do X] before [doing Y]."]
+      },
+      {
+        "paragraph": 4,
+        "structure": "提出设计层面的解决方案，最后用短句对照收束，回扣标题。",
+        "highlights": ["making the cost visible", "decisions the user delegated", "Convenience is not the enemy. Passive convenience is."],
+        "transferable": ["[People] can help by [doing X].", "[A] is not the enemy. [A'] is."]
+      }
+    ]
+  },
+  "environment": {
+    "label": "环境",
+    "title": "The City That Learned to Breathe",
+    "essay": "For decades, the river through my hometown was treated as a drain. Concrete walls kept it out of sight, and the city turned its back on the water. Then a modest experiment began: one section of the embankment was replaced with reeds, shallow pools and a narrow walking path. Nobody expected much. Within three years, herons returned.\n\nThe project succeeded because it was small enough to be tested and visible enough to be defended. Residents could see the change on their way to work. Children counted insects for a school project. The data mattered, but the daily encounter mattered more. Environmental policy often fails not because the science is weak, but because the benefits remain abstract until people can touch them.\n\nThere were costs. Maintenance was more demanding than concrete, and some paths flooded after heavy rain. The city did not hide these problems; it published them alongside the results. That honesty made the next stage easier to fund.\n\nCities cannot be returned to some imagined untouched nature. They can, however, make room for other lives in ordinary places. A reed bed beside a bus stop will not stop climate change, but it changes what a city believes it is for. Once residents see the river as a neighbour rather than a drain, better decisions become possible.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "先写过去的错误处置，再用“一次小实验”转折，以苍鹭回归作为具象成果收束。",
+        "highlights": ["treated as a drain", "turned its back on the water", "Nobody expected much. Within three years, herons returned."],
+        "transferable": ["For decades, [place] was treated as [negative role].", "Nobody expected much. Within [time], [surprising result]."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "解释项目成功的原因：可测试、可见、可参与；最后一句点出环境政策失败的认知原因。",
+        "highlights": ["small enough to be tested and visible enough to be defended", "the daily encounter mattered more", "remain abstract until people can touch them"],
+        "transferable": ["The project succeeded because it was [A] enough to [X] and [B] enough to [Y].", "[Policy] often fails not because [A] is weak, but because [B] remains abstract."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "主动呈现成本与缺陷，以诚实换取下一阶段的支持，增强说服力。",
+        "highlights": ["Maintenance was more demanding than concrete", "did not hide these problems", "made the next stage easier to fund"],
+        "transferable": ["There were costs. [X] was more demanding than [Y].", "That honesty made [next step] easier to [do]."]
+      },
+      {
+        "paragraph": 4,
+        "structure": "拒绝浪漫化自然，提出城市尺度内的务实愿景，并用“邻居而非下水道”的比喻收尾。",
+        "highlights": ["some imagined untouched nature", "make room for other lives in ordinary places", "a neighbour rather than a drain"],
+        "transferable": ["[X] cannot be returned to [idealized past]. They can, however, [modest action].", "Once [people] see [X] as [A] rather than [B], better decisions become possible."]
+      }
+    ]
+  },
+  "society": {
+    "label": "社会",
+    "title": "The Neighbour Nobody Noticed",
+    "essay": "Mr Lin repaired bicycles in a narrow shop at the end of our street. He was not a community leader. He never spoke at meetings. Yet when the shop closed, the street discovered how much invisible work he had been doing. He had watched children cross the road, lent tools, kept spare keys and told newcomers which bus to take.\n\nCities tend to count what is easy to count: shops, jobs, square metres. Informal care is harder to measure, so it disappears from planning documents. A bench is just a bench until you notice who rests there. A corner shop is a business until it becomes the place where an elderly resident hears a daily greeting.\n\nRecognising this work is not nostalgia. It affects policy. If a redevelopment plan removes small, low-rent spaces, it may also remove the conditions for casual contact. Planners can ask a simple question before approving a project: where will the unplanned conversations happen afterwards?\n\nMr Lin now works from a folding table near the bus stop. People still stop to talk. The street has not preserved his shop, but it has learned to see the role. That may be the beginning of a better kind of urban knowledge: not only how many people live here, but how they look after one another.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "以一位普通修车师傅开头，用“不是领袖”与“被发现的重要”形成反差，列举具体行为建立人物。",
+        "highlights": ["not a community leader", "invisible work he had been doing", "kept spare keys and told newcomers which bus to take"],
+        "transferable": ["[Person] was not a [title]. He never [public action]. Yet when [event], [place] discovered [contribution]."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "从个体转向城市治理，指出“可计量”与“重要”之间的错位，并用两个排比句说明日常场所的意义。",
+        "highlights": ["count what is easy to count", "Informal care is harder to measure", "A bench is just a bench until you notice who rests there"],
+        "transferable": ["[Institutions] tend to count what is easy to count.", "A [place] is just a [place] until [human use]."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "主动说明“不是怀旧”，把话题拉回政策，提出规划者可执行的一问。",
+        "highlights": ["is not nostalgia", "removes the conditions for casual contact", "where will the unplanned conversations happen afterwards?"],
+        "transferable": ["Recognising this is not nostalgia. It affects [policy].", "[People] can ask a simple question before [decision]: ...?"]
+      },
+      {
+        "paragraph": 4,
+        "structure": "回到人物现状，不强行圆满，最后升华到城市知识应由“数量”转向“相互照料”。",
+        "highlights": ["works from a folding table", "has learned to see the role", "how they look after one another"],
+        "transferable": ["[Place] has not preserved [X], but it has learned to see [Y].", "That may be the beginning of a better kind of [knowledge]."]
+      }
+    ]
+  },
+  "culture": {
+    "label": "文化",
+    "title": "A Recipe Is a Small Archive",
+    "essay": "My grandmother never wrote down her dumpling recipe. She measured flour by feel and judged the filling by smell. When she died, the recipe did not disappear completely, but it became a set of questions that only she could answer.\n\nCooking is often treated as a private skill. In fact, it carries public memory. A recipe records what a place grew, what it could afford and whom it traded with. The use of a particular pickle or a forbidden ingredient can tell a longer story than a history book. When families move, recipes travel with them and change. The changes are not mistakes; they are evidence.\n\nThis is why I began writing down not only quantities but reasons. Why is the dough rested twice? Which step can be skipped when there is no time? What should the kitchen smell like? A useful recipe preserves decisions, not just ingredients.\n\nMy version will never taste exactly like hers. I have a different flour, a different stove and a smaller kitchen. Still, when I fold the dough, I am repeating a gesture that arrived before me. The archive is not on paper. It is in the hands, and it survives each time someone bothers to cook.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "以个人记忆切入，用“没有写下”和“变成只有她能回答的问题”制造遗憾与悬念。",
+        "highlights": ["measured flour by feel", "the recipe did not disappear completely", "a set of questions that only she could answer"],
+        "transferable": ["[Person] never wrote down [thing].", "When [person] died, [thing] did not disappear completely, but it became ..."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "由私人口述转向公共记忆，说明菜谱如何记录地理、经济与迁徙；用“变化即证据”反转常见看法。",
+        "highlights": ["Cooking is often treated as a private skill. In fact, it carries public memory.", "The changes are not mistakes; they are evidence."],
+        "transferable": ["[X] is often treated as [private matter]. In fact, it carries [public memory].", "[Changes] are not mistakes; they are evidence."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "从观点转到方法：记录原因而非只有用量，并列出三个具体问题。",
+        "highlights": ["not only quantities but reasons", "What should the kitchen smell like?", "preserves decisions, not just ingredients"],
+        "transferable": ["This is why I began [doing X] not only [A] but [B].", "A useful [record] preserves [decisions], not just [ingredients]."]
+      },
+      {
+        "paragraph": 4,
+        "structure": "承认差异、不以复制为目标，最后用“手”和“有人愿意做”定义文化传承。",
+        "highlights": ["will never taste exactly like hers", "a gesture that arrived before me", "it survives each time someone bothers to cook"],
+        "transferable": ["My version will never [match]. I have [different conditions].", "[Heritage] survives each time someone bothers to [do it]."]
+      }
+    ]
+  },
+  "growth": {
+    "label": "个人成长",
+    "title": "The Year I Practised Being Slow",
+    "essay": "I used to treat speed as proof of seriousness. A full calendar meant I mattered. I answered messages while walking, read summaries instead of books and felt guilty during any pause. Then a minor illness forced me to spend two weeks doing almost nothing.\n\nThe first days were unbearable. Without constant input, I noticed how much of my busyness was avoidance. Being slow exposed thoughts I had been outrunning: a difficult conversation, a project I did not believe in, the fear that I had chosen the wrong direction.\n\nRecovery did not turn me into a calm person. It gave me a smaller, more practical idea: slowness is a tool, not an identity. I now protect one unhurried hour each morning. I write before opening my inbox. Once a week, I walk without headphones. These are modest rules, but they make room for attention.\n\nThe lesson was not that busy people are shallow or that slowness is virtuous. It was that pace should match purpose. Some tasks deserve urgency; others need the patience to become clear. Choosing the right speed is part of the work itself.",
+    "review": [
+      {
+        "paragraph": 1,
+        "structure": "用三个并列行为具体化“以快证明认真”，再以生病被迫停下制造转折。",
+        "highlights": ["treated speed as proof of seriousness", "A full calendar meant I mattered", "felt guilty during any pause"],
+        "transferable": ["I used to treat [X] as proof of [Y].", "Then [small event] forced me to [stop]."]
+      },
+      {
+        "paragraph": 2,
+        "structure": "写停顿带来的不适与自我发现，把“忙”解释为逃避，深化反思。",
+        "highlights": ["how much of my busyness was avoidance", "thoughts I had been outrunning", "the fear that I had chosen the wrong direction"],
+        "transferable": ["Without [constant input], I noticed how much of my [busyness] was [avoidance].", "[Slowness] exposed thoughts I had been outrunning."]
+      },
+      {
+        "paragraph": 3,
+        "structure": "否定“变成另一种人”的戏剧化结果，提出“慢是工具”的可操作主张，并列出三个微习惯。",
+        "highlights": ["slowness is a tool, not an identity", "protect one unhurried hour", "make room for attention"],
+        "transferable": ["[Experience] did not turn me into [ideal type]. It gave me a smaller idea: ...", "These are modest rules, but they make room for [X]."]
+      },
+      {
+        "paragraph": 4,
+        "structure": "拒绝二元对立，用“速度应匹配目的”收束，并把选择速度本身视为工作的一部分。",
+        "highlights": ["busy people are shallow", "pace should match purpose", "Choosing the right speed is part of the work itself"],
+        "transferable": ["The lesson was not that [A] are [bad] or that [B] is virtuous.", "Choosing the right [X] is part of [Y] itself."]
+      }
+    ]
+  }
+}
